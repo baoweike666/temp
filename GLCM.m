@@ -1,3 +1,4 @@
+
 clear;
 
 img = imread('G3.bmp');
